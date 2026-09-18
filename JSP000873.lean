@@ -1,3 +1,4 @@
+/- leanprover/lean4:v4.35.0-rc2  mathlib v4.35.0-rc2 -/
 /-
   JSP-000873 · "multiply perfect numbers" — Lean formalization observation
 
